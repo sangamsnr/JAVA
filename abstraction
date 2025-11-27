@@ -1,0 +1,12 @@
+package abstraction;
+
+public class animal {
+
+}
+//
+package abstraction;
+
+public class dog {
+
+}
+
